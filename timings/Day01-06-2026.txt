@@ -6,7 +6,7 @@ today's task
 
 
 tomorrow task->
-intro of linux 
+intro of linux in mrng 
 learn basics of linux 
 git practice 
 coding practice 
