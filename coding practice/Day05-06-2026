@@ -32,7 +32,6 @@ GitLab CI — Use Environment Variables
 You will learn how to use CI variables in GitLab pipelines.
 
 stages:
-
 build
 variables: INSTITUTE_NAME: "Pathnex"
 
